@@ -38,8 +38,6 @@ smiles2mol -s "CCO" --render
 
 ### Other options
 
-```bash
 - `--iter`: Specify number of iterations for structural optimization.
 - `-v` or `--version`: Display version.
 - `-h` or `--help`: Display help.
-```
