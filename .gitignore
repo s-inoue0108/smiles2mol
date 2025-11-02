@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ビルド成果物
+build/
+dist/
+*.egg-info/
+
+# Mac
+.DS_Store
+
